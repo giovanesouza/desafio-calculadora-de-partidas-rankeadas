@@ -1,5 +1,16 @@
 # Desafio: Calculadora de partidas Rankeadas
 
+
+## Pré-requisitos para rodar o programa localmente
+
+ * [x] Ter o git instalado;
+ * [x] Ter o Node instalado;
+ * [x] Ter uma IDE instalada;
+ * [x] Clonar o repositório;
+ * [x] Rodar o projeto com o node - comando: `node index.js`;
+
+
+
 **O Que deve ser utilizado**
 
 - Variáveis
